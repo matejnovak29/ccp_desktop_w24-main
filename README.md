@@ -1,1 +1,2 @@
-# ccp_desktop_w24-main
+# ccp_starter_code
+Starter Code for your CCP 
